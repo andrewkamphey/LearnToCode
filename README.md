@@ -12,5 +12,5 @@ It's been a over 10 years since I fell in love with the startup work. I was work
 ## 2021 - Ruby on Rails
 - Rails Tutorial by Michale Hartl
  
-#Currently
+# Currently
 Exercism: Ruby Track
