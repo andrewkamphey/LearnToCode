@@ -13,4 +13,5 @@ It's been a over 10 years since I fell in love with the startup work. I was work
 - Rails Tutorial by Michale Hartl
  
 # Currently
-Exercism: Ruby Track
+Building a better version of [BetterSheets.co](https://bettersheets.co/) with Ruby on Rails.
+Looking for a new course to take.
