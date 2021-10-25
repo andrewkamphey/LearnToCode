@@ -13,6 +13,7 @@ It's been a over 10 years since I fell in love with the startup work. I was work
 - Built [Influence.Directory](http://influence.directory/), and learned Javascript to add search functionality for [Influencer Marketing Agencies database](http://influence.directory/agencies)
 ## 2020 - Launched Better Sheets
 - A course where I teach google sheets and basic script writing.
+- Created a V1 of [BetterSheets.co](https://bettersheets.co/) with Outseta, HTML, CSS, JS, Aloglia
 ## 2021 - Ruby on Rails
 - Rails Tutorial by Michale Hartl
 - Built: [CouponMaker.xyz](https://couponmaker.xyz/): a Gumroad Coupon Generator for Creators
