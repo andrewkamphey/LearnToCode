@@ -13,11 +13,16 @@ It's been a over 10 years since I fell in love with the startup work. I was work
 - Built [Influence.Directory](http://influence.directory/), and learned Javascript to add search functionality for [Influencer Marketing Agencies database](http://influence.directory/agencies)
 ## 2020 - Launched Better Sheets
 - A course where I teach google sheets and basic script writing.
-- Created a V1 of [BetterSheets.co](https://bettersheets.co/) with Outseta, HTML, CSS, JS, Aloglia
+- Created a V1 of [BetterSheets.co](https://bettersheets.co/) with Outseta, HTML, CSS, JS, Algolia
 ## 2021 - Ruby on Rails
 - Rails Tutorial by Michale Hartl
 - Built: [CouponMaker.xyz](https://couponmaker.xyz/): a Gumroad Coupon Generator for Creators
+
+## 2022
+- Changed CouponMaker to [CouponCodeMaker.com](https://couponcodemaker.com/)
+- Launched [BetterSheets.co](https://bettersheets.co/) in April
  
 # Currently
-- Building: A better version of [BetterSheets.co](https://bettersheets.co/) with Ruby on Rails.
-- Taking: [Learn Enough Ruby To Be Dangerous](https://www.learnenough.com/ruby-tutorial)
+- Improving: [BetterSheets.co](https://bettersheets.co/) with Ruby on Rails.
+- Writing more code in Google Script
+- Learning how to deploy a Google Sheets Add-on
