@@ -5,7 +5,7 @@ It's been a over 10 years since I fell in love with the startup work. I was work
 
 ## 2010 - Excel VBA
 - Googled everyday for a couple years. Built an excel sheet system to manage digital content across a network of 80 touch screens on Royal Caribbean Cruise Lines.
-## 2014 - Google Script
+## 2014 - Google Apps Script
 - Googled everyday for 5 years. Built the operations and data store for The QYOU television networks in Google sheets with Google Script
 ## 2017 - mySQL
 - Conceived, Hired, and Managed the buildling of an internal database using mySQL and PHP. I personally created the data schema and mySQL for the backend of the project. Hired and Managed a PHP developer to build the front end.
@@ -17,18 +17,15 @@ It's been a over 10 years since I fell in love with the startup work. I was work
 ## 2021 - Ruby on Rails
 - Rails Tutorial by Michale Hartl
 - Built: [CouponMaker.xyz](https://couponmaker.xyz/): a Gumroad Coupon Generator for Creators
-
-## 2022
+## 2022 - Focus
 - Changed CouponMaker to [CouponCodeMaker.com](https://couponcodemaker.com/)
 - Launched [BetterSheets.co](https://bettersheets.co/) in April
 - Published 1st Google Sheets Add-on end of 2022
-
-## 2023
+## 2023 - Tailwind
 - Published 6 Google Sheet add-ons in 6 months
 - Created a hughe number of 1-page tools for [BetterSheets.co](https://bettersheets.co/)
 - Added a Template library to [BetterSheets.co](https://bettersheets.co/)
-  
-# Currently
+# CURRENTLY
 - Improving: [BetterSheets.co](https://bettersheets.co/) with Ruby on Rails and Tailwind
 - Writing more code in Google Script for clients
 - Building more tools than ever
