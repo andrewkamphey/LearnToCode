@@ -21,8 +21,14 @@ It's been a over 10 years since I fell in love with the startup work. I was work
 ## 2022
 - Changed CouponMaker to [CouponCodeMaker.com](https://couponcodemaker.com/)
 - Launched [BetterSheets.co](https://bettersheets.co/) in April
- 
+- Published 1st Google Sheets Add-on end of 2022
+
+## 2023
+- Published 6 Google Sheet add-ons in 6 months
+- Created a hughe number of 1-page tools for [BetterSheets.co](https://bettersheets.co/)
+- Added a Template library to [BetterSheets.co](https://bettersheets.co/)
+  
 # Currently
-- Improving: [BetterSheets.co](https://bettersheets.co/) with Ruby on Rails.
-- Writing more code in Google Script
-- Learning how to deploy a Google Sheets Add-on
+- Improving: [BetterSheets.co](https://bettersheets.co/) with Ruby on Rails and Tailwind
+- Writing more code in Google Script for clients
+- Building more tools than ever
